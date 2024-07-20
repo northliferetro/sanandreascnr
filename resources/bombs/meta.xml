@@ -1,0 +1,12 @@
+<meta>
+<script src="server.lua" type="server" cache="false"/>
+<script src="client.lua" type="client" cache="false"/>
+<file src="SFX/flash.mp3" cache="false"/>
+<file src="SFX/landmine.mp3" cache="false"/>
+<file src="SFX/atdrop.mp3" cache="false"/>
+
+<script src="models.lua" type="client" cache="false"/>
+<file src="model/mine.txd" cache="false"/>
+<file src="model/mine.dff" cache="false"/>
+<file src="model/mine.col" cache="false"/>
+</meta>

@@ -1,0 +1,29 @@
+<meta>
+<download_priority_group>999</download_priority_group>
+<script src="dx.lua" type="client" cahce="false"/>
+<script src="hash.lua" type="server" cache="false"/>
+<script src="class.lua" type="server" cache="false"/>
+<script src="class.lua" type="client" cahce="false"/>
+<script src="server.lua" type="server" cache="false"/>
+<script src="client.lua" type="client" cache="false"/>
+<script src="discord.lua" type="client" cahce="false"/>
+<script src="profile_s.lua" type="server" cache="false"/>
+<script src="profile_c.lua" type="client" cahce="false"/>
+<script src="onquit.lua" type="server" cache="false"/>
+<script src="onsave.lua" type="server" cache="false"/>
+<file src="SFX/1.mp3" cache="false"/>
+<file src="SFX/2.mp3" cache="false"/>
+<file src="SFX/3.mp3" cache="false"/>
+<file src="SFX/levelup.mp3" cache="false"/>
+<file src="GFX/font.ttf" cache="false"/>
+<file src="GFX/skins/280.png" cache="false"/>
+<file src="GFX/skins/285.png" cache="false"/>
+
+<script src="gameclient.lua" type="client" cahce="false"/>
+<script src="serverevents.lua" type="server" cache="false"/>
+
+<export function="setXP" type="server"/>
+<export function="setLevel" type="server"/>
+<export function="sehirIsinla" type="server"/>
+<export function="callBackVeri" type="server" http="true"/>
+</meta>

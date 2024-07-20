@@ -1,0 +1,7 @@
+<meta>
+<min_mta_version>1.5.4.9.11413</min_mta_version>
+<info author="MrZsemle" name="Discord webhook messages" />
+<script src="webhookS.lua" type="server"/>
+
+<export function="sendDiscordMessage" type="server" />
+</meta>

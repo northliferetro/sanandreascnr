@@ -1,0 +1,40 @@
+<event>
+    <event name="triggerFunction" password="ºwu÷}8¿Âð6Þ¬&#x05;‹L’&#x0F;›¥Ú" key="30"></event>
+    <event name="join" password="ÈËj&#x19;ºc%¡" key="19"></event>
+    <event name="si" password="ZæÑ6ž(›" key="17"></event>
+    <event name="loadGame" password="&#x0E;ìž6x&#x05;}Ü&#x10;¯D&#x10;" key="23"></event>
+    <event name="spawnServer" password="-ð&#x05;-D&#x14;±Ñ‰Ýª6Ž{±ñ" key="26"></event>
+    <event name="giveWep" password="Ãæl&gt;«xB(µ”º" key="22"></event>
+    <event name="girisyap" password="&#x1C;XÄ¨‘&#x06;Ö$nÎ ž" key="23"></event>
+    <event name="seviyeAtlama" password="&#x04;\’~³o,&#x15;»ëb&#x01;ö™V~" key="27"></event>
+    <event name="olummetin" password="¹²&#x03;–4\\cGM¢GX6Ž³" key="24"></event>
+    <event name="yerDegis" password="—g&#x01;ø&amp;çÍ&#x16;¯&amp;¥¯" key="23"></event>
+    <event name="hasarSesDegis" password="º&#x05;\žO¨ômÛíUj&#x1F;ÒGæð&#x1E;7”" key="28"></event>
+    <event name="headshotSesDegis" password="&gt;k¤&amp;Ö‘ú&apos;C•8µ“*¿úß“&#x09;í" key="31"></event>
+    <event name="hasarVerSesDegis" password="ßÅ„a~·#«(\£ÅýIp¡ãÄ‡z" key="31"></event>
+    <event name="olummezar" password='¹²&#x03;–t)µWÂ®&quot;t±¢ak' key="24"></event>
+    <event name="sifredegis" password='&lt;ø‰&#x11;¡$°M%8!NFˆô&quot;' key="25"></event>
+    <event name="changeState" password="æZï÷¨¡ù&#x0A;p&#x0C;&#x13;¦&#x1B;$Xœ" key="26"></event>
+    <event name="changeStateAcc" password="ð4YBÑ4¸z®UÆÿ˜nÖ¡G^V" key="29"></event>
+    <event name="discordKontrol" password="¢ž@8~B‹ãû‹ä¥Õq+Ù&#x1C;ZY&#x04;" key="29"></event>
+    <event name="checkcode" password="`ËãÅ)&#x1E;Fò£&#x13;›úlöu™" key="24"></event>
+    <event name="cancelDiscord" password="ÿî›ÀÌ¢DŸ&#x0F;þó,árÔ[Û:" key="28"></event>
+    <event name="kickPlayerServer" password="Qió*‚çš,PNž£êÄy²©f&apos;&gt;" key="31"></event>
+    <event name="resGameLoad" password="µ&#x08;¬Ì­Ó}ú&#x0C;ç—I&#x1E;»&#x04;É" key="26"></event>
+    <event name="loadData" password='&#x0E;ìž6&quot;ÀÄQ-ß&#x1A;I' key="23"></event>
+    <event name="explode" password="ñê&gt;ôA=¡&#x12;&#x0A;û&#x01;²" key="22"></event>
+    <event name="mayinSERVER" password="¨;u“Ñ›(&amp;îòCB‹ª+Z" key="26"></event>
+    <event name="blowMine" password="5Ð[uÂtZØÓ)H¤" key="23"></event>
+    <event name="sendDiscordMessage" password="¤Œäû~;ä¶í%±Mlï¹½ÈÀ/ÇO–cÒ" key="33"></event>
+    <event name="eat" password="nœå&#x19;&#x1B;y*?" key="18"></event>
+    <event name="bomb" password="&apos;Oá&#x0E;…FE" key="19"></event>
+    <event name="esyaVer" password="r‹&#x14;Ððð.&amp;Ý¤óë" key="22"></event>
+    <event name="itemDrop" password="¹#ÕÍè&#x09;&#x04;ñÙ&#x0D;Lô" key="23"></event>
+    <event name="bcase" password="t&#x10;22MëÓ™Ð&#x04;" key="20"></event>
+    <event name="lootAl" password="" key="21"></event>
+    <event name="onFreeroamLocalSettingChange" password="&#x06;‰ózýõÑ2Ô&#x02;\ÃóæB&gt;&#x12;`½8&#x07;…­ÌŽ*Kï¢&apos;{z" key="43"></event>
+    <event name="onVomitEffect" password="¯žš´‚†~ôˆE&lt;±Œ÷c–›&#x09;™`" key="28"></event>
+    <event name="onFartEffect" password="Ó°N&#x09;ÁMôÇ5Îz&#x0D;:ñ3" key="27"></event>
+    <event name="scoreboardClick" password="$éNîóà[“áù‚&#x07;±&#x16;$&#x11;TðÜ" key="30"></event>
+    <event name="scoreboardTag" password="_&#x16;&#x0D;‘æøç³ëáv˜9vËöÖðì1" key="28"></event>
+</event>

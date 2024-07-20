@@ -1,0 +1,10 @@
+<meta>
+<script src="env_s.lua" type="server"/>
+<script src="item_list.lua" type="server"/>
+<script src="item_list.lua" type="client"/>
+<script src="env_c.lua" type="client"/>
+<file src="envanter.db"/>
+<export function="checkItem" type="server"/>
+<export function="takeItem" type="server"/>
+
+</meta>

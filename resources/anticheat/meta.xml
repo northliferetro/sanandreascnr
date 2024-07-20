@@ -1,0 +1,11 @@
+<meta>
+<download_priority_group>9999</download_priority_group>
+<script src="clientside/client.lua" type="client" cache="false"/>
+<script src="clientside/hookprotect.lua" type="client" cache="false"/>
+<script src="serverside/triggerevent.lua" type="server" cache="false"/>
+<script src="serverside/antidata.lua" type="server" cache="false"/>
+<export function="triggerSafeServerEvent" type="client"/>
+
+<script src="config_client.lua" type="client" cache="false"/>
+<script src="config_server.lua" type="server" cache="false"/>
+</meta>
