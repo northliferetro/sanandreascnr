@@ -1,0 +1,22 @@
+{
+  "name": "sahp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "north",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "mtasa-api": "^0.3.0",
+    "node-fetch": "^3.3.2",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
+  }
+}
